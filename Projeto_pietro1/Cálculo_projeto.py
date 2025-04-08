@@ -12,7 +12,7 @@ def operacao():
         print('O carro é rapido')
     elif var == '*':
         num5 = num * num2
-        print('Palmeiras maior campeão nacional')
+        print('amarelo é uma cor bonita')
     elif var == '/':
         num6 = num / num2
         print('o carro é caro')
