@@ -6,16 +6,16 @@ def operacao():
     global num, num2, var
     if var == '+':
         num3 = num + num2
-        
+        print('O maior país é a Russía')
     elif var == '-':
         num4 = num - num2
-        
+        print('O carro é rapido')
     elif var == '*':
         num5 = num * num2
-        
+        print('Palmeiras maior campeão nacional')
     elif var == '/':
         num6 = num / num2
-        
+        print('o carro é caro')
     else:
-       
+       print('oq que no meio do ovo')
 operacao()
